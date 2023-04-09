@@ -1,6 +1,8 @@
 # leaflet-challenge
 Tasked with developing a way to visualize USGS earthquake data using HTML and Javascript {Leaflet package}.
 
+Credit to CodePen user John in Copenhagen (@haakseth on CodePen.io) for detailed example of map legend generation. 
+
 ## Project Description
 The United States Geological Survey, or USGS for short, is responsible for providing scientific data about natural hazards, the health of our ecosystems and environment, and the impacts of climate and land-use change. Their scientists develop new methods and tools to supply timely, relevant, and useful information about the Earth and its processes.
 
